@@ -2,6 +2,9 @@
 layout: post
 title: Our founder
 ---
+<div class="message">
+  Want to learn about markdown?
+</div>
 Ed Solonyka created this website back in September 1998. For more than 17 years, Ed regularly maintained and updated the site, which is now the authoritative list of large roadside attractions in Canada. Travelers have planned vacations around the roadside attractions listed on this site. For some of us, the challenge was to find a roadside attraction not yet listed on the site — take the photo and send it to Ed to be added to the list. And it was fascinating to keep track of the expanding list of roadside attractions — even, and perhaps especially, those that we weren’t likely to see in real life.
 
 [On December 19, 2015, Ed passed away.](http://yourlifemoments.ca/sitepages/obituary.asp?oid=924949)
