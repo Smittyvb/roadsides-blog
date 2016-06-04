@@ -3,5 +3,5 @@ layout: page
 title: Subscribe
 ---
 
-Enter this URL into your RSS feed, to add this blog to it:
+To subscribe to our RSS feed, cut-and-paste this URL into your newsreader:
 ```http://blog.roadsideattractions.ca/atom.xml```
