@@ -10,5 +10,3 @@ Ed Solonyka created this website back in September 1998. For more than 17 years,
 This website will go on, in memory of Ed. Please [send us](mailto:roadsides@roadsideattractions.ca) any new photos that haven’t been added to the site yet. Keep an eye on this blog or follow us on [Twitter](https://twitter.com/Roadside_Canada) for updates.
 
 * [Mike ](mailto:mike@roadsideattractions.ca)and [Mira](mailto:mmsm.geo@gmail.com) van Bodegom
-
------
