@@ -11,4 +11,4 @@ Contact/follow/engage:
 
 * [RSS feed](http://blog.roadsideattractions.ca/subscribe)
 
-* [email](mailto:roadsides@roadsideattractions.ca)
+* [Email](mailto:roadsides@roadsideattractions.ca)
