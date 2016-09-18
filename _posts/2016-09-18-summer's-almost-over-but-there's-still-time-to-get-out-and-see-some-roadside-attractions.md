@@ -13,9 +13,9 @@ Also, we’re still working on a refreshed look for the site - check out our [de
 
 * the [International Village Globe](http://roadsideattractions.ca/lcra1447.html) in Vancouver, BC (credit: Richard Donnan)
 
-* Dinosaurs in [Vancouver, BC ](http://roadsideattractions.ca/vandino.html) (credit: Richard Donnan), and in [Bow Island, AB](http://roadsideattractions.ca/lcra1454.html) (with thanks to Randy Sneep, who has an awesome [Facebook page](https://www.facebook.com/BrodsideAttractions) covering his road trips to various roadside attractions)
+* Dinosaurs in [Vancouver, BC ](http://roadsideattractions.ca/vandino.html) (credit: Richard Donnan), and in [Bow Island, AB](http://roadsideattractions.ca/lcra1454.html) (credit: Randy Sneep, who has an awesome [Facebook page](https://www.facebook.com/BrodsideAttractions) recounting his road trips to various roadside attractions)
 
-   	![Dinosaur](http://roadsideattractions.ca/lcra1454.html)
+   	![Dinosaur](http://roadsideattractions.ca/lcra1454.jpg)
 
 * another couple of Adironack Chairs, one in [Exeter, ON](http://roadsideattractions.ca/lcra1448.html) (credit: Tina Ritu), and one in [Ancaster, ON](http://roadsideattractions.ca/lcra1449.html) (credit: Mira van Bodegom)
 
@@ -29,7 +29,7 @@ Also, we’re still working on a refreshed look for the site - check out our [de
 
 **Recently archived:**
 
-* we approve of the eradication of mosquitoes, but, even so, we’re sad to hear that the [Mosquito ](http://roadsideattractions.ca/lmosquito.html)in Lakefield ON has been removed 
+We approve of the eradication of mosquitoes, but, even so, we’re sad to hear that the [Mosquito ](http://roadsideattractions.ca/lmosquito.html)in Lakefield ON has been removed 
 
 **Update:**
 
