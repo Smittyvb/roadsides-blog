@@ -1,6 +1,7 @@
 ---
+title: The summer of roadside attractions continues!
+date: 2016-08-13 00:00:00 Z
 layout: post
-title: "The summer of roadside attractions continues!"
 ---
 
 It’s been a busy summer here at the Large Roadside Attractions of Canada head office. We’ve added a bunch of new roadside attractions to the site, and there are more to come once I catch up on the backlog that accumulated while we were on [vacation](http://blog.roadsideattractions.ca/2016/07/31/EasterEggHunt-in-Alberta/) in Edmonton (photo radar capital of Canada).

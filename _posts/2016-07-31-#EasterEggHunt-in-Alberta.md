@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "#EasterEggHunt in Alberta"
+date: 2016-07-31 00:00:00 Z
+layout: post
 ---
+
 Although Mira and I both lived in Alberta, years ago, neither of us had ever visited the [Vegreville pysanka](http://roadsideattractions.ca/egg.html). When we visited Edmonton this summer (home of the most aggressive photo radar campaign I have ever run across), we made sure to swing by Vegreville and check out one of the country’s [most awesome roadside attractions](http://blog.roadsideattractions.ca/2016/06/04/top-ten/).
 
 Our trip to the pysanka and other Alberta roadside attractions, in pictures and [tweets](https://twitter.com/Roadside_Canada):

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Contact us
+layout: page
 ---
 
 Contact/follow/engage:

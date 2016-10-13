@@ -1,7 +1,9 @@
 ---
+title: Summer's almost over - but there's still time to get out and see some roadside
+  attractions
+date: 2016-09-18 00:00:00 Z
 layout: post
-title: "Summer's almost over - but there's still time to get out and see some roadside attractions"
---- 
+---
 
 We’re still catching up on the backlog of new photos submitted this summer, so you’ll want to keep an eye on our list of [new additions](http://roadsideattractions.ca/whatsnew.html) to the site.
 

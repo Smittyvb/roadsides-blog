@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Subscribe
+layout: page
 ---
 
 To subscribe to our RSS feed, cut-and-paste this URL into your newsreader:

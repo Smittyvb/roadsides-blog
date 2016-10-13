@@ -1,6 +1,7 @@
 ---
+title: '2016: The summer of roadside attractions!'
+date: 2016-07-02 00:00:00 Z
 layout: post
-title: "2016: The summer of roadside attractions!"
 ---
 
 **New roadside attraction added to the site:**

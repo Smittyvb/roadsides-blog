@@ -1,22 +1,23 @@
-# Permalinks
-#
-permalink:           pretty
-
-# Setup
-title:               Large Canadian Roadside Attractions
-tagline:             'Bigger is better!'
-url:                 http://blog.roadsideattractions.ca
-baseurl:             ''
-paginate:            5
-
-# About/contact
+---
+title: Large Canadian Roadside Attractions
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+permalink: pretty
+tagline: Bigger is better!
+url: http://blog.roadsideattractions.ca
+baseurl: ''
+paginate: 5
 author:
-  name:              Michael A. van Bodegom
-  url:               http://blog.roadsideattractions.ca
-  email:             mike@roadsideattractions.ca
-
-# Custom vars
-version:             1.0.0
-
-gems: [jekyll-paginate]
-paginate_path: "page:num"
+  name: Michael A. van Bodegom
+  url: http://blog.roadsideattractions.ca
+  email: mike@roadsideattractions.ca
+version: 1.0.0
+gems:
+- jekyll-paginate
+paginate_path: page:num
