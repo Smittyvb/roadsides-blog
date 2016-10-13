@@ -1,0 +1,15 @@
+---
+title: Demo Post
+date: 2016-10-13 20:41:00 Z
+---
+
+1. This is a demo post.
+
+2. This is a test.
+
+   > we loved this demo
+   >
+   > --Demo Inc.
+
+   See! Everyone \*loves\* us!
+![Test.](/uploads/header.png)
