@@ -1,7 +1,6 @@
 ---
 title: Demo Post
 date: 2016-10-13 20:41:00 Z
-published: false
 layout: post
 ---
 
