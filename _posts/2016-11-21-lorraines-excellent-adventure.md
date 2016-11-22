@@ -3,7 +3,7 @@ title: Lorraine's Excellent Adventure!
 layout: post
 ---
 
-[Lorraine Hirning](mailto:hirning@shaw.ca) was instrumental in keeping this site going when our founder, [Ed Solonyka](http://blog.roadsideattractions.ca/2016/05/22/our-founder/) passed away almost a year ago. And her summer vacation brought lots of new B.C. roadside attractions to the site. As always: thanks, Lorraine!
+[Lorraine Hirning](mailto:hirning@shaw.ca) was instrumental in keeping this site going when our founder, [Ed Solonyka](http://blog.roadsideattractions.ca/2016/05/22/our-founder/), passed away almost a year ago. And her summer vacation brought lots of new B.C. roadside attractions to the site. As always: thanks, Lorraine!
 
 
 **New roadside attractions recently added to the site, all with thanks to Lorraine:**
@@ -44,11 +44,11 @@ layout: post
 
 **And some updates from Lorraine:**
 
-* [Loggers ](http://roadsideattractions.ca/sooke.html)in Sooke &emdash; the lower of the two loggers is slowly making his way up the pole!
+* [Loggers ](http://roadsideattractions.ca/sooke.html)in Sooke — the lower of the two loggers is slowly making his way up the pole!
 
-* [World Famous Gnome](http://roadsideattractions.ca/nanoosebay.html) in Nanoose Bay &emdash; this stylish gnome has been re-painted and sports a new shirt
+* [World Famous Gnome](http://roadsideattractions.ca/nanoosebay.html) in Nanoose Bay — this stylish gnome has been re-painted and sports a new shirt
 
 ![World Famous Gnome image](http://roadsideattractions.ca/nanoosebay2.jpg)
 
-*  The pair of [Easter Island Heads](http://roadsideattractions.ca/nanaimo.html) in Nanaimo are now both on the site
+*  Both of the [Easter Island Heads](http://roadsideattractions.ca/nanaimo.html) in Nanaimo are now on the site
 
