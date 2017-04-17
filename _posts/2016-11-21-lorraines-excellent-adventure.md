@@ -1,6 +1,8 @@
 ---
 title: Lorraine's Excellent Adventure!
 date: 2016-11-21 00:00:00 Z
+tags:
+- new roadsides
 layout: post
 ---
 
