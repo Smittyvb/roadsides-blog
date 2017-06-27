@@ -1,6 +1,7 @@
 ---
 title: Roadside Attractions Wallpaper
 date: 2017-06-26 23:13:00 Z
+permalink: "/wallpaper"
 tags:
 - '1500'
 ---
